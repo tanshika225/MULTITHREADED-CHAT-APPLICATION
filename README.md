@@ -108,3 +108,6 @@ Real-time data transmission
 Exception handling in networking
 Java stream handling
 Resource management
+
+# OUTPUT
+<img width="737" height="230" alt="Image" src="https://github.com/user-attachments/assets/0dec1b64-ee3e-4988-bc69-cc2d6e3f3aea" />
